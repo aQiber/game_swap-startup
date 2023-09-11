@@ -1,2 +1,2 @@
 # game_swap-startup
-This is a webpage for a startup buissness, where you can swap games based on mapping and geo-location. Included with system analysis diagrams and webpage
+This is the webpage for "gameswap", I created an idea for a startup business called ”gameswap” from basic system planning to system analysis for life‑cycle according to customer and market needs until application design.
